@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524614869 source:c:\users\matthew\desktop\college\hw\sem2\cs 1\project6\project6_a04817851_sourcecode\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
